@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1909e07-0660-411e-8837-5d131db9fc1b" name="Changes" comment="deleted .idea" />
+    <list default="true" id="b1909e07-0660-411e-8837-5d131db9fc1b" name="Changes" comment="Content for Bottom Container;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1678553973294</updated>
       <workItem from="1678553979900" duration="327000" />
-      <workItem from="1678554321719" duration="712000" />
+      <workItem from="1678554321719" duration="1338000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1678554337384</created>
@@ -91,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678554422520</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Content For Top Containers;">
+      <created>1678559030828</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678559030828</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Content for Bottom Container;">
+      <created>1678559970794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678559970794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +130,8 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Bug fixed;" />
     <MESSAGE value="deleted .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted .idea" />
+    <MESSAGE value="Content For Top Containers;" />
+    <MESSAGE value="Content for Bottom Container;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Content for Bottom Container;" />
   </component>
 </project>
