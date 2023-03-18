@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1909e07-0660-411e-8837-5d131db9fc1b" name="Changes" comment="Adjusting the Fonts;" />
+    <list default="true" id="b1909e07-0660-411e-8837-5d131db9fc1b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.QUIZY-ICONS--main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QUIZY-ICONS--main/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Quizzy/Quizzy_Icons_1.uxml" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Quizzy/Quizzy_Icons_1.uxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/QuizzyIcons/IconDragger.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/QuizzyIcons/IconDragger.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/QuizzyIcons/Setup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/QuizzyIcons/Setup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="mock://C:/WorkAndStudyFolder/Unity Projects/QUIZY-ICONS--main/Assets/QuizzyIcons/Controller.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -68,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1678553973294</updated>
       <workItem from="1678553979900" duration="327000" />
-      <workItem from="1678554321719" duration="1946000" />
+      <workItem from="1678554321719" duration="2904000" />
+      <workItem from="1679171304981" duration="1319000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1678554337384</created>
@@ -112,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678561289849</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Adding Placeholders;">
+      <created>1678561640658</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1678561640658</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +151,7 @@
     <MESSAGE value="Content For Top Containers;" />
     <MESSAGE value="Content for Bottom Container;" />
     <MESSAGE value="Adjusting the Fonts;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjusting the Fonts;" />
+    <MESSAGE value="Adding Placeholders;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Placeholders;" />
   </component>
 </project>
