@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Test_StyleSheet.uss?fileID=7433441132597879392&amp;guid=e90b6dd350b549d44989fbb7b4dd4187&amp;type=3#Test_StyleSheet" />
+    <ui:VisualElement class="red_square" style="width: 100%; height: 100%;" />
+    <ui:VisualElement class="black_square" />
+    <ui:VisualElement class="yellow_square" />
+</ui:UXML>

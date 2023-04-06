@@ -1,0 +1,17 @@
+.red_square {
+    width: 100%;
+    height: 100%;
+    background-color: rgb(255, 0, 0);
+}
+
+.yellow_square {
+    background-color: rgba(255, 254, 0, 255);
+    width: 100%;
+    height: 100%;
+}
+
+.black_square {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 255);
+}
