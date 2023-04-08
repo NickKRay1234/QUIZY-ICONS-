@@ -39,7 +39,21 @@ public class LINQ : MonoBehaviour
 
     private void Start()
     {
-        var people = new List<Person>()
+        var courses = new List<Courses> { new("C#"), new("Java") };
+        var students = new List<Student> { new("Tom"), new("Bob") };
+
+        var enrollments = from course in courses
+            from student in students
+            select new { Student = student.name, Course = course.language };
+
+        foreach (var enrollment in enrollments)
+        {
+            Debug.Log($"{enrollment.Student} --> {enrollment.Course}");
+        }
+
+
+
+            var people = new List<Person>()
         {
             new("Tom", 23),
             new("Bob", 27),
@@ -76,5 +90,17 @@ public class LINQ : MonoBehaviour
         //
         // foreach (int age in ages)
         //     Debug.Log(age);
+    }
+
+    private class Student
+    {
+        public string name;
+        public Student(string Name) => name = Name;
+    }
+
+    private class Courses
+    {
+        public string language;
+        public Courses(string Language) => language = Language;
     }
 }
