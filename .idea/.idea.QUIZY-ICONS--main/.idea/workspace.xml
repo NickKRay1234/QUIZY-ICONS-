@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1909e07-0660-411e-8837-5d131db9fc1b" name="Changes" comment="">
+    <list default="true" id="b1909e07-0660-411e-8837-5d131db9fc1b" name="Changes" comment="LINQ Collection filters;">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.QUIZY-ICONS--main/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.QUIZY-ICONS--main/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/LINQ.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/LINQ.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/LINQ.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/LINQ.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://C:/WorkAndStudyFolder/Unity Projects/QUIZY-ICONS--main/Assets/Scripts/LINQ.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LINQ2HM.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -72,7 +75,7 @@
       <workItem from="1678554321719" duration="2904000" />
       <workItem from="1679171304981" duration="2700000" />
       <workItem from="1680817141229" duration="3599000" />
-      <workItem from="1680988368990" duration="930000" />
+      <workItem from="1680988368990" duration="4655000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1678554337384</created>
@@ -144,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680819314811</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="LINQ Collection filters;">
+      <created>1680989346307</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680989346307</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -176,6 +186,7 @@
     <MESSAGE value="Simple Dragging Pattern;" />
     <MESSAGE value="LINQ - Data projection" />
     <MESSAGE value="LINQ - let;" />
-    <option name="LAST_COMMIT_MESSAGE" value="LINQ - let;" />
+    <MESSAGE value="LINQ Collection filters;" />
+    <option name="LAST_COMMIT_MESSAGE" value="LINQ Collection filters;" />
   </component>
 </project>
